@@ -1,0 +1,29 @@
+.ul1{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    background-color: #ffa729;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.li1{
+    font-weight: bold;
+    background-color: #ffa729;
+    display: flex;
+    align-items: center;
+}
+.li2{
+    font-weight: bold;
+    margin-left: 62%;
+    text-decoration:underline;
+    font-size: 18px;
+    background-color: #ffa729;
+    /* color: white; */
+}
+h1{
+    background-color: #ffa729;
+    /* color: white; */
+}
+.img1{
+    height: 60px;
+}
