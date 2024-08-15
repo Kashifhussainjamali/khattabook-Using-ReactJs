@@ -1,8 +1,8 @@
-# React + Vite
+# Descreption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Easily manage your expenses with my dynamic Khaata Book. Simply input the itemname and amount, and the app will automatically log the current date.
+It then organizes your spending by date, item, and amount, while also providing a total for each category, giving you a clear view of your finances."
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/user-attachments/assets/f5767557-1b77-46cb-b281-90cbb77b3e30
+
